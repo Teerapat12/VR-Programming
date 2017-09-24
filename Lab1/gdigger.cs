@@ -3,6 +3,7 @@ using System.Collections;
 
 public class gdigger : MonoBehaviour {
 
+	
 	public int minX = 0;
 	public int maxX = 50;
 	public int minY = 0;
